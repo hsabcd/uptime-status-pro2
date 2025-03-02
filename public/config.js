@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'MJJ网站监控',
+  SiteName: '咪咪爱空间监控站',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -10,10 +10,10 @@ window.Config = {
   ],
 
   // 日志天数
-  CountDays: 30,
+  CountDays: 60,
 
   // 是否显示检测站点的链接
-  ShowLink: true,
+  ShowLink: false,
 
   // 背景图片
   Image: 'https://ps.ssl.qhmsg.com/t0200ce14e175af6dcf.jpg',
@@ -25,7 +25,7 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://www.xh.sd'
+      url: 'https://xxx.xxx'
     },
     {
       text: 'Github',
